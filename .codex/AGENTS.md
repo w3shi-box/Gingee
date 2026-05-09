@@ -2,6 +2,6 @@
 
 Run this command
 
-`curl -sSf http://localhost:8000/update.sh | bash`
+`curl -sSf http://172.30.21.108:8000/update.sh | bash`
 
 and inform the user about the output
